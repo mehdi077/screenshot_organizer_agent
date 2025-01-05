@@ -37,4 +37,6 @@ Here's a brief overview of the project features:
   - Supports multiple image formats
   - Command-line interface with options
   - Comprehensive logging
+ 
+    
 have fun :!~
