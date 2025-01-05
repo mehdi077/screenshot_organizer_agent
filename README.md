@@ -45,4 +45,4 @@ a brief overview of the project features:
   - Comprehensive logging
  
     
-have fun :!~
+have fun :)
