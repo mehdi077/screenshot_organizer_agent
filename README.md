@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/7a495935-5f0d-4cda-ae8c-80db80daed9f
 
 ------------------------------------------------------
 
-Here's a brief overview of the project features:
+a brief overview of the project features:
 
 - Core Features:
   - Consolidates images from multiple folders
